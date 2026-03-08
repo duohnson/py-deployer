@@ -125,3 +125,8 @@ AllowAgentForwarding no
 TCPKeepAlive no
 LogLevel VERBOSE
 ClientAliveCountMax 2
+
+---
+
+Questions or feedback? Find me on [GitHub](https://github.com/duohnson).
+
