@@ -115,6 +115,7 @@ sudo nano /etc/ssh/sshd_config
 ```
 And add the following edits:
 
+```bash
 Port 2222
 PermitRootLogin no
 MaxAuthTries 3
@@ -125,6 +126,7 @@ AllowAgentForwarding no
 TCPKeepAlive no
 LogLevel VERBOSE
 ClientAliveCountMax 2
+```
 
 ---
 
